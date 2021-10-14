@@ -1,14 +1,11 @@
-//teksti väljastamine
-//kommentaaride kasutamine
+// muutujad ja andmetüübid
+// 1. deklareerimine
+// let muutujanimi
+// 2. väärtuse omistamine
+// muutujanimi = väärtus
 
-//üherealine kommentaar
+let aasta = 2016
 
-/*
-mitme
-realine
-kommentaar
-*/
+let president = 'Kersti Kaljulaid'
 
-console.log("Tere Maailm")
-console.log("See on teine rida")
-console.log('See ' + 'on ' + 'liitlause')
+console.log(aasta + '.Eesti presidendiks valiti ' + president)
