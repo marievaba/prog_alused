@@ -4,6 +4,7 @@
 // 2. väärtuse omistamine
 // muutujanimi = väärtus
 
+
 let aasta = 2016
 
 let president = 'Kersti Kaljulaid'
